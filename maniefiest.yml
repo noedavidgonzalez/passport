@@ -3,6 +3,5 @@ applications:
 - instances: 1
   name: socialloginnoecastro
   memory: 64M
-  disk quota: 128M
   domain: mybluemix.net
   host: socialloginnoecastro
