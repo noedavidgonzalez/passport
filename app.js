@@ -19,9 +19,8 @@ const GoogleStrategy = require("passport-google-oauth").OAuth2Strategy;
 
 mongoose
   //.connect('mongodb://localhost/passport-demo', {useNewUrlParser: true})
-  //.connect("mongodb://sa:pa$$w0rd@ds121183.mlab.com:21183/ironhack2019",
-  .connect(
-    process.env.MONGODB,
+  .connect("mongodb://sa:pa$$w0rd@ds121183.mlab.com:21183/ironhack2019",
+  //.connect( process.env.MONGODB,
     { useNewUrlParser: true }
   )
 
