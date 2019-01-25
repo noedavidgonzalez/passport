@@ -4,3 +4,4 @@ applications:
   name: socialloginnoecastro
   memory: 128M
   domain: mybluemix.net
+  host: socialloginnoecastro
