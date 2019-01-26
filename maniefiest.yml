@@ -1,7 +1,0 @@
----
-applications:
-- instances: 1
-  name: socialloginnoecastro
-  memory: 256 MB
-  domain: mybluemix.net
-  host: socialloginnoecastro

@@ -1,0 +1,10 @@
+---
+applications:
+  - instances: 1
+    name: socialloginnoecastro
+    memory: 128M
+    domain: mybluemix.net
+    host: socialloginnoecastro
+    path: .
+    command: npm start
+
